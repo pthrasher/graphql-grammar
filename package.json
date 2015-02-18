@@ -1,0 +1,21 @@
+{
+  "name": "graphql-grammar",
+  "version": "0.1.0",
+  "description": "A pegjs grammar for facebook's graphql.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "graphql",
+    "react",
+    "facebook",
+    "relay"
+  ],
+  "author": "Philip Thrasher <philipthrasher@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^0.1.37",
+    "pegjs": "^0.8.0"
+  }
+}
