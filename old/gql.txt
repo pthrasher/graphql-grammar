@@ -1,0 +1,33 @@
+
+user(1573736868737623) {
+  id,
+  name,
+  birthdate {
+    month,
+    day
+  },
+  friends.first(1) {
+    cursor,
+    user {
+      name
+    }
+  }
+}
+
+
+user(1573736868737623) {
+  id,
+  name,
+  birthdate {
+    month,
+    day
+  },
+  friends.first(1) {
+    cursor,
+    user {
+      name
+    }
+  }
+}
+
+
